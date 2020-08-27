@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Notebook
+comment0.text=\r\n\ A\ class\ to\ maintain\ an\ arbitrarily\ long\ list\ of\ notes.\r\n\ Notes\ are\ numbered\ for\ external\ reference\ by\ a\ human\ user.\r\n\ In\ this\ version,\ note\ numbers\ start\ at\ 0.\r\n\ \r\n\ @author\ David\ J.\ Barnes\ and\ Michael\ Kolling.\r\n\ @version\ 2008.03.30\r\n
+comment1.params=
+comment1.target=Notebook()
+comment1.text=\r\n\ Perform\ any\ initialization\ that\ is\ required\ for\ the\r\n\ notebook.\r\n
+comment2.params=note
+comment2.target=void\ storeNote(java.lang.String)
+comment2.text=\r\n\ Store\ a\ new\ note\ into\ the\ notebook.\r\n\ @param\ note\ The\ note\ to\ be\ stored.\r\n
+comment3.params=number
+comment3.target=void\ removeNote(int)
+comment4.params=
+comment4.target=void\ listAllNotes()
+comment5.params=searchString
+comment5.target=void\ search(java.lang.String)
+comment6.params=
+comment6.target=int\ numberOfNotes()
+comment6.text=\r\n\ @return\ The\ number\ of\ notes\ currently\ in\ the\ notebook.\r\n
+comment7.params=noteNumber
+comment7.target=void\ showNote(int)
+comment7.text=\r\n\ Show\ a\ note.\r\n\ @param\ noteNumber\ The\ number\ of\ the\ note\ to\ be\ shown.\r\n
+numComments=8
